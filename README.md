@@ -4,7 +4,7 @@ Working on a bigger project to build my own online crypto trading system, I wrot
 Usage:
 Clone the project and run the convertBTC.py script and pass the Currency Type and the currency amount.
 
-###Examples:
+### Examples:
 
 If you want to convert 50 united Kingdom Pound to bitcoin, you would run:
 
@@ -16,7 +16,7 @@ If you want to convert 5000 USD to BTC, you run:
 
 Valid input for currencies follow the ISO4217 specification (USD, JPY, GBP, etc.). You can get more detailed information [here](http://www.xe.com/iso4217.php).
 
-###BTC Price calculation:
+### BTC Price calculation:
 
 Per the [forex-python documentation](https://pypi.python.org/pypi/forex-python):
 
