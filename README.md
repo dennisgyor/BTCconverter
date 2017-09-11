@@ -17,3 +17,10 @@ python convertBTC.py -c USD -a 5000
 Valid input for currencies follow the ISO4217 specification (USD, JPY, GBP, etc.). You can get more detailed infomration here:
 
 http://www.xe.com/iso4217.php
+
+
+BTC Price calculation:
+
+Per the forex-python documentation(https://pypi.python.org/pypi/forex-python):
+
+Bitcoin prices calculated every minute. For more information visit [CoinDesk API](http://www.coindesk.com/api/).
